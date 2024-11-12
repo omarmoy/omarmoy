@@ -1,4 +1,4 @@
-![image](omarmoy/me.jpeg)
+![image](me.jpeg)
 
 ## Hi there 👋
 
