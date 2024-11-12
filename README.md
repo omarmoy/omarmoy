@@ -1,4 +1,4 @@
-![image](me.jpeg)
+![image](me.png)
 
 ## Hi there 👋
 
